@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Md Sadikur Rahman - Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I am Md Sadikur Rahman</h1>
+    <p>I am a C++ programmer learning and working on projects.</p>
+    
+    <h2>My Projects</h2>
+    <ul>
+        <li><a href="https://github.com/Sadikur3004/Project1">Project 1 - Simple Calculator in C++</a></li>
+        <li><a href="https://github.com/Sadikur3004h/Project2">Project 2 - Tic Tac Toe Game</a></li>
+    </ul>
+
+    <h2>Contact Me</h2>
+    <p>Email: mdsadikurrahman428@gmail.com</p>
+</body>
+</html>
