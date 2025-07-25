@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Md Sadikur Rahman - Portfolio</title>
+</head>
+<body>
+    <h1>Hello, I am Md Sadikur Rahman</h1>
+    <p>I am a C++ programmer and currently studying Computer Science.</p>
+    
+    <h2>My Projects</h2>
+    <ul>
+        <li>Simple Calculator using C++</li>
+        <li>Tic Tac Toe Game (Console Based)</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: mdsadikurrahman428@gmail.com</p>
+</body>
+</html>
